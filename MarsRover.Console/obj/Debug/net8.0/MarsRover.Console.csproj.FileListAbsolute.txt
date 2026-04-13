@@ -1,0 +1,14 @@
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\bin\Debug\net8.0\MarsRover.Console.exe
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\bin\Debug\net8.0\MarsRover.Console.deps.json
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\bin\Debug\net8.0\MarsRover.Console.runtimeconfig.json
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\bin\Debug\net8.0\MarsRover.Console.dll
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\bin\Debug\net8.0\MarsRover.Console.pdb
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\MarsRover.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\MarsRover.Console.AssemblyInfoInputs.cache
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\MarsRover.Console.AssemblyInfo.cs
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\MarsRover.Console.csproj.CoreCompileInputs.cache
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\MarsRover.Console.dll
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\refint\MarsRover.Console.dll
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\MarsRover.Console.pdb
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\MarsRover.Console.genruntimeconfig.cache
+C:\Users\MicrosoftAdmin\Desktop\March Cohort\Fundamentals\c-sharp-mars-rover\MarsRover\MarsRover.Console\obj\Debug\net8.0\ref\MarsRover.Console.dll
