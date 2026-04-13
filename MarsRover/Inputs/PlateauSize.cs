@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarsRover.Console.Inputs
+namespace MarsRover
 {
    class PlateauSize(int x, int y) { 
         int X { get; set; } = x;

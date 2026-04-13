@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarsRover.Console.Inputs
+namespace MarsRover
 {
-   public enum Instruction {
-        L,
-        R,
-        M
+    public class InputParser
+    {
     }
-  
 }
