@@ -11,3 +11,4 @@ namespace MarsRover.Console.Inputs
         int Y { get; set; } = y;
     }
 }
+    

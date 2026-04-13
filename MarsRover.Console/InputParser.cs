@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarsRover.Console.Inputs
+namespace MarsRover.Console
 {
-    public enum CompassDirection {
-        N, 
-        E,
-        S, 
-        W
+    public class InputParser
+    {
     }
 }
