@@ -1,5 +1,5 @@
-using MarsRover.Console;
-using MarsRover.Console.Inputs;
+using MarsRover;
+
 
 namespace MarsRover.Tests
 {
@@ -11,11 +11,11 @@ namespace MarsRover.Tests
 
         }
 
-        [TestCase("L", new[] { Instruction.L })]
-        public void ParseInstruction_AddSingleInstructionToList(string input, Instruction[] expected)
+        [Test]
+        public void ParseInstruction_AddSingleInstructionToList()
         {
             Instruction parsedInstruction = InputParser.ParseInstruction('L');
             Assert.That(parsedInstruction, Is.EqualTo(Instruction.L));
-
         }
     }
+}
